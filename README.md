@@ -1,0 +1,2 @@
+# projecte
+study of git
